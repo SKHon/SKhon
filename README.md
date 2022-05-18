@@ -6,7 +6,8 @@
 [《Koa入门、进阶与实战》](https://item.jd.com/10043942006112.html)。希望在
 技术道路上，多结交一些志同道合的朋友，我本人热爱技术，也热爱分享，希望我们能够共同进步。
 
-如果想联系我，可以给我发邮件：ljhtianhong@163.com。也可以在[脉脉](https://maimai.cn/contact/share/card?u=ftk4qwtxos08&_share_channel=copy_link)上联系我
+如果想联系我，可以给我发邮件：ljhtianhong@163.com。
+
 
 
 
