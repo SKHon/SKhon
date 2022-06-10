@@ -1,5 +1,5 @@
 ### 欢迎你的到来 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SKHon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SKHon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" /> -->
 
 你好，我叫**刘江虹**（你可以叫我**江虹**😄），是一名软件工程师。目前就职于字节跳动，
 在抖音电商业务架构团队，主要负责一些工程化相关工作。之前也写过两本书[《React.js实战》](https://item.jd.com/50189138561.html)、
